@@ -14,3 +14,5 @@ void moveZeroes(int* nums, int numsSize)
         nums[i]=0;
     }
 }
+
+link : https://leetcode.com/problems/move-zeroes/submissions/1401463573

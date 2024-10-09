@@ -43,6 +43,7 @@ int main() {
         scanf("%d",&choice);
         switch(choice) {
             case 1:
+                printf("Enter value :");
                 scanf("%d",&a);
                 push(a);
                 break;

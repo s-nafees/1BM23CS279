@@ -65,40 +65,40 @@ int main() {
 
 OUTPUT :
 enter 1-push, 2-pop, 3-display, 4-exit :1
-Enter value :2
+Enter value :20
 2 pushed onto stack
 enter 1-push, 2-pop, 3-display, 4-exit :1
-Enter value :3
+Enter value :30
 3 pushed onto stack
 enter 1-push, 2-pop, 3-display, 4-exit :1
-Enter value :4
+Enter value :40
 4 pushed onto stack
 enter 1-push, 2-pop, 3-display, 4-exit :1
-Enter value :5
+Enter value :50
 5 pushed onto stack
 enter 1-push, 2-pop, 3-display, 4-exit :1
-Enter value :6
+Enter value :60
 6 pushed onto stack
 enter 1-push, 2-pop, 3-display, 4-exit :1
-Enter value :7
+Enter value :70
 Stack overflow!
 enter 1-push, 2-pop, 3-display, 4-exit :3
 stack elements :
-6
-5
-4
-3
-2
+60
+50
+40
+30
+20
 enter 1-push, 2-pop, 3-display, 4-exit :2
-6 popped successfully!
+60 popped successfully!
 enter 1-push, 2-pop, 3-display, 4-exit :2
-5 popped successfully!
+50 popped successfully!
 enter 1-push, 2-pop, 3-display, 4-exit :2
-4 popped successfully!
+40 popped successfully!
 enter 1-push, 2-pop, 3-display, 4-exit :2
-3 popped successfully!
+30 popped successfully!
 enter 1-push, 2-pop, 3-display, 4-exit :2
-2 popped successfully!
+20 popped successfully!
 enter 1-push, 2-pop, 3-display, 4-exit :2
 Stack underflow!!
 enter 1-push, 2-pop, 3-display, 4-exit :3

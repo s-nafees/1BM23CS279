@@ -62,3 +62,48 @@ int main() {
     }
     return 0;
 }
+
+OUTPUT :
+enter 1-push, 2-pop, 3-display, 4-exit :1
+Enter value :2
+2 pushed onto stack
+enter 1-push, 2-pop, 3-display, 4-exit :1
+Enter value :3
+3 pushed onto stack
+enter 1-push, 2-pop, 3-display, 4-exit :1
+Enter value :4
+4 pushed onto stack
+enter 1-push, 2-pop, 3-display, 4-exit :1
+Enter value :5
+5 pushed onto stack
+enter 1-push, 2-pop, 3-display, 4-exit :1
+Enter value :6
+6 pushed onto stack
+enter 1-push, 2-pop, 3-display, 4-exit :1
+Enter value :7
+Stack overflow!
+enter 1-push, 2-pop, 3-display, 4-exit :3
+stack elements :
+6
+5
+4
+3
+2
+enter 1-push, 2-pop, 3-display, 4-exit :2
+6 popped successfully!
+enter 1-push, 2-pop, 3-display, 4-exit :2
+5 popped successfully!
+enter 1-push, 2-pop, 3-display, 4-exit :2
+4 popped successfully!
+enter 1-push, 2-pop, 3-display, 4-exit :2
+3 popped successfully!
+enter 1-push, 2-pop, 3-display, 4-exit :2
+2 popped successfully!
+enter 1-push, 2-pop, 3-display, 4-exit :2
+Stack underflow!!
+enter 1-push, 2-pop, 3-display, 4-exit :3
+stack is empty
+enter 1-push, 2-pop, 3-display, 4-exit :4
+
+Process returned 0 (0x0)   execution time : 40.180 s
+Press any key to continue.
